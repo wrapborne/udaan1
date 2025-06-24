@@ -1,0 +1,11 @@
+streamlit
+pandas
+mysql-connector-python
+sqlalchemy
+openpyxl
+python-docx
+PyMuPDF
+pdfplumber
+dateparser
+python-dotenv
+bcrypt
